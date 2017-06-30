@@ -6,6 +6,7 @@ SETUP
 
 >Install node.js
 	Download - https://nodejs.org/en/download/
+	
 >run 'npm install' on the command line
 
 NOTES
@@ -14,4 +15,4 @@ NOTES
 
 TO START SERVER
 
-'npm start' - to start server
+>type 'npm start' on the command line
