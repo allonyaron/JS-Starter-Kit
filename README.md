@@ -13,6 +13,8 @@ NOTES
 
 .editorconfig - If your editor requires a plugin for .editorconfig you can download it from http://editorconfig.org/
 
+linting - If you have linting built in to your editor they should be disabled so they don't override the eslint setup
+
 TO START SERVER
 
 >type 'npm start' on the command line
