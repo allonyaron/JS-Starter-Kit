@@ -16,3 +16,7 @@ NOTES
 TO START SERVER
 
 >type 'npm start' on the command line
+
+TO DEBUG
+
+>add 'debugger;' to your code and devtools will use the sourcemap to display code in original pre-bundled state.
